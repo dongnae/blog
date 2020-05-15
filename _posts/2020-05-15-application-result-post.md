@@ -2,9 +2,9 @@
 title: Organic 최종 선발자 안내
 date: 2020-05-15 22:55:00
 categories:
-- talk
+- notice
 tags:
-- talk
+- notice
 ---
 
 안녕하세요. 동래고등학교 컴퓨터 공학 동아리 `Organic` 입니다.<br>
