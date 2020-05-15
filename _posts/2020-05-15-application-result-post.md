@@ -1,5 +1,5 @@
 ---
-title:  블로그 테스트
+title: Organic 최종 선발자 안내
 date: 2020-05-15 22:55:00
 categories:
 - talk
